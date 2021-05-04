@@ -16,7 +16,7 @@
 
 # Sobre o Projeto
 
-- Programa que Calcula a Hipotenusa do triangulo retangulo, insere cateto oposto, cateto adjacente, operações, adição, potência , multiplicação e execulta o resultado na tela.
+- Programa que calcula a area do losango, insere diagonal maior, diagonal menor, operações, multiplicação, divisão e execulta o resultado na tela.
 - Outros fatores, você também pode  fazer teste aleatorio, usando os buttons, Executa, Limpar, Sair, nesse projeto.
 - Projeto foi implemetado no  Windows Forms.
 - IDE Visual Studio
