@@ -1,17 +1,17 @@
 # Layout
 
-<a href="#">
-<img align="center"  alt="jonas-Layout" height ="400" width ="380" src ="https://user-images.githubusercontent.com/25933386/117038255-cc48b900-acdd-11eb-80d5-dced43a20b2b.jpg" style="max-width: 100%;"></img>
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-Layout" height ="400" width ="380" src ="https://user-images.githubusercontent.com/25933386/117038255-cc48b900-acdd-11eb-80d5-dced43a20b2b.jpg" style="max-width: 100%;"></img></target>
 </a>
 
-<a href="#">
-<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img></target>
 </a>
 
 # Calcule Area do Losango
 
-<a href="#">
-<img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img>
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img></target>
 </a>
 
 # Sobre o Projeto
